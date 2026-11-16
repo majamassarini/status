@@ -12,3 +12,7 @@ severity: disrupted
 Packit is currently down due to unplanned maintenance.
 We apologize for the inconvenience.
 We will post an update when the service is restored.
+
+Update: Copr builds and Testing farm tests are back.
+We are still working on downstream jobs: Fedora CI,
+Propose downstream and Pull from upstream.
